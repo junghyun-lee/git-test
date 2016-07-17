@@ -16,6 +16,10 @@ var gitTest = (function () {
 
     }
 
+    git.update = function () {
+        
+    }
+
     return git;
 })
 
